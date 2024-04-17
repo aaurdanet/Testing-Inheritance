@@ -9,7 +9,7 @@ The Animal class represents a generic animal and includes attributes such as age
 java
 
 public class Animal {
-    // Attributes and methods...
+// Attributes and methods...
 }
 
 Dog
@@ -19,7 +19,7 @@ The Dog class extends Animal and adds specific attributes like name, breed, and 
 java
 
 public class Dog extends Animal {
-    // Attributes, methods, and overridden toString...
+// Attributes, methods, and overridden toString...
 }
 
 Cat
@@ -29,7 +29,7 @@ The Cat class extends Animal and adds specific attributes like name and lives re
 java
 
 public class Cat extends Animal {
-    // Attributes, methods, and overridden toString...
+// Attributes, methods, and overridden toString...
 }
 
 Bird
@@ -39,7 +39,7 @@ The Bird class extends Animal and adds specific attributes like the number of wi
 java
 
 public class Bird extends Animal {
-    // Attributes, methods, and overridden toString...
+// Attributes, methods, and overridden toString...
 }
 
 Testinheritance
@@ -49,18 +49,18 @@ The Testinheritance class contains the main method, creating instances of Animal
 java
 
 public class Testinheritance {
-    public static void main(String[] args) {
-        // Creating instances of Animal, Dog, Cat, and Bird...
-    }
+public static void main(String[] args) {
+// Creating instances of Animal, Dog, Cat, and Bird...
+}
 }
 
 How to Run
 
-    Ensure you have a Java development environment set up.
+Ensure you have a Java development environment set up.
 
-    Compile the code using a Java compiler:
+Compile the code using a Java compiler:
 
-    bash
+bash
 
 javac Testinheritance.java
 
@@ -68,9 +68,9 @@ Run the compiled program:
 
 bash
 
-    java Testinheritance
+java Testinheritance
 
-    View the output that demonstrates the characteristics of various animals in the hierarchy.
+View the output that demonstrates the characteristics of various animals in the hierarchy.
 
 Feel free to modify the code or extend it to explore additional features or animal types. If you have any questions or need further assistance, please don't hesitate to ask!
 # Testing-Inheritance
